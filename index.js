@@ -1,3 +1,5 @@
+const fetch = require("node:fetch");
+
 let int = [60, 17, 49, 27, 44, 33, 15, 59, 122, 19, 29];
 
 // Função para pegar um intervalo aleatório em milissegundos
