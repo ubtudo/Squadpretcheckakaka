@@ -1,4 +1,4 @@
-const fetch = require("node:fetch");
+const fetch = require("fetch");
 
 let int = [60, 17, 49, 27, 44, 33, 15, 59, 122, 19, 29];
 
